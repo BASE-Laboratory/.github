@@ -1,29 +1,35 @@
-# BASE Laboratory: Beamlines for Autonomous Science and Engineering
+# BASE Laboratory
+### Beamlines for Autonomous Science and Engineering
 
-> **"Teaching Beamlines to Think"**
+We are a joint research group between the **University of Greenwich** and the **Rutherford Appleton Laboratory (RAL)**. We build the software infrastructure to hardwire UK Exascale computing directly to Synchrotron beamlines.
 
-We are a research group based at the **University of Greenwich** and the **Rutherford Appleton Laboratory (RAL)**. We move materials characterization from passive observation to intelligent, active searching.
+### ⚡ Research Focus
+Our work targets the stochastic precursors to battery failure. We replace deterministic testing schedules with autonomous, AI-driven control loops that navigate the search space of material degradation in real-time.
 
-### 🔬 Our Mission
-We are building **"Self-Driving Microscopes"**—autonomous platforms that use AI to pilot synchrotron beamlines in real-time. We target the stochastic, fleeting precursors to battery failure that standard deterministic tests miss.
+* **Autonomous Control:** Reinforcement learning agents for active beamline steering (Diamond Light Source / ISIS).
+    * *Theory:* Benchmarking Autonomy Taxonomy ([arXiv:2601.06978](https://arxiv.org/abs/2601.06978))
+    * *Method:* The ESME Framework ([arXiv:2601.00851](https://arxiv.org/abs/2601.00851))
+* **Generative Simulation:** Physics-informed diffusion models for surrogate modelling on GH200 hardware.
+* **High-Throughput Physics:** Massively parallel transport solvers for terabyte-scale tomography.
 
-### 🛠️ Core Research Pillars
-* **The Experimental Hub (RAL/Harwell):** Deploying autonomous control systems live on beamlines (Diamond Light Source, ISIS).
-* **The Computational Hub (Greenwich):** Developing Graph Neural Networks, Digital Twins, and AI Agents.
-* **The Application:** Multimodal characterization (XCT, XRD, XRF) of Li-ion, Na-ion, and Solid-State batteries.
+### 📦 The Software & Data Stack
+Our code is open-source and developed for Tier-1 National Supercomputing facilities (e.g. Isambard-AI).
 
-### 📦 Key Projects & Software
-| Project | Description | Status |
+| Repository | Domain | Description |
 | :--- | :--- | :--- |
-| **The Faraday Engine** | National data infrastructure hardwiring UK Exascale computing to synchrotron beamlines. | 🚧 In Development |
-| **OpenImpala** | Open-source solver turning 3D tomographic data into electrochemical insight. | 🟢 Active |
-| **Heuristic Operando** | Framework for entropy-scaled measurement efficiency (ESME) in autonomous labs. | 📜 arXiv:2601.00851 |
+| [**OpenImpala**](https://github.com/BASE-Laboratory/OpenImpala) | ⚛️ Physics | Massively parallel solver for transport physics (AMReX/C++). (*SoftwareX* [2021](https://www.sciencedirect.com/science/article/pii/S2352711021000662)) |
+| [**PorousDiff**](https://github.com/BASE-Laboratory/PorousDiff) | 🧠 GenAI | Conditional 3D diffusion for mechanical surrogate modelling. |
+| [**LiionDB**](https://zenodo.org/records/5574514) | 🔋 Data | The community standard database for Li-ion battery parameters (Zenodo). |
+| [**OpenLSR-X**](https://github.com/BASE-Laboratory/OpenLSR-X) | 👁️ Vision | SRGAN implementation for Synchrotron XCT super-resolution. |
+| [**Battery-Explorer**](https://github.com/BASE-Laboratory/Battery-Explorer) | 📊 Viz | 4D interactive dashboard for operando failure analysis. |
+| [**MultimodalBenchmark**](https://github.com/BASE-Laboratory/MultimodalBenchmark) | 💾 Data | Official code for the 3D Multimodal Synchrotron Dataset (*Sci. Data* [2025](https://www.nature.com/articles/s41597-025-04605-9)). |
 
-### 📢 We Are Hiring!
-We are currently looking for our founding **PhD Student** to design the **Predictive Engine** for the Self-Driving Microscope.
-* **Role:** Design the brain that teaches the microscope how to think.
-* **Location:** Greenwich (London) & RAL (Harwell).
-* **Funding:** Fully funded 4-year studentship.
+### 📢 Opportunities
+**PhD Studentship: Generative AI for Experimental Control**
+We are recruiting a doctoral candidate to design the predictive engine for the "Self-Driving Microscope."
+* **Focus:** Bayesian Optimization & Active Learning for X-ray Tomography.
+* **Site:** Harwell Campus (RAL).
+* **Contact:** James.LeHoux@greenwich.ac.uk
 
 ---
-*Est. 2025 | Part of the M34Impact Institute*
+*© 2026 BASE Laboratory | Part of the M34Impact Institute*
