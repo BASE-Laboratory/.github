@@ -3,6 +3,10 @@
 
 We are a joint research group between the **University of Greenwich** and the **Rutherford Appleton Laboratory (RAL)**. We build the software infrastructure to hardwire UK Exascale computing directly to Synchrotron beamlines.
 
+<p align="center">
+  <img src="https://github.com/BASE-Laboratory/.github/blob/main/assets/Heuristic_Control.png?raw=true" alt="ESME Framework Architecture" width="65%">
+</p>
+
 ### ⚡ Research Focus
 Our work targets the stochastic precursors to battery failure. We replace deterministic testing schedules with autonomous, AI-driven control loops that navigate the search space of material degradation in real-time.
 
@@ -11,6 +15,10 @@ Our work targets the stochastic precursors to battery failure. We replace determ
     * *Method:* The ESME Framework ([arXiv:2601.00851](https://arxiv.org/abs/2601.00851))
 * **Generative Simulation:** Physics-informed diffusion models for surrogate modelling on GH200 hardware.
 * **High-Throughput Physics:** Massively parallel transport solvers for terabyte-scale tomography.
+
+<p align="center">
+  <img src="https://github.com/BASE-Laboratory/.github/blob/main/assets/BASE_Scale.png?raw=true" alt="Levels of Autonomy Scale" width="60%">
+</p>
 
 ### 📦 The Software & Data Stack
 Our code is open-source and developed for Tier-1 National Supercomputing facilities (e.g. Isambard-AI).
