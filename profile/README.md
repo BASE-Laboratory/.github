@@ -24,7 +24,6 @@ We are currently looking for our founding **PhD Student** to design the **Predic
 * **Role:** Design the brain that teaches the microscope how to think.
 * **Location:** Greenwich (London) & RAL (Harwell).
 * **Funding:** Fully funded 4-year studentship.
-* [Link to Application / Contact Info]
 
 ---
 *Est. 2025 | Part of the M34Impact Institute*
