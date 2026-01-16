@@ -21,7 +21,7 @@ Our code is open-source and developed for Tier-1 National Supercomputing facilit
 | [**PorousDiff**](https://github.com/BASE-Laboratory/PorousDiff) | 🧠 GenAI | Conditional 3D diffusion for mechanical surrogate modelling. |
 | [**LiionDB**](https://zenodo.org/records/5574514) | 🔋 Data | The community standard database for Li-ion battery parameters (Zenodo). |
 | [**OpenLSR-X**](https://github.com/BASE-Laboratory/OpenLSR-X) | 👁️ Vision | SRGAN implementation for Synchrotron XCT super-resolution. |
-| [**Battery-Explorer**](https://github.com/BASE-Laboratory/Battery-Explorer) | 📊 Viz | 4D interactive dashboard for operando failure analysis. |
+| [**BatteryExplorer**](https://github.com/BASE-Laboratory/Battery-Explorer) | 📊 Viz | 4D interactive dashboard for operando failure analysis. |
 | [**MultimodalBenchmark**](https://github.com/BASE-Laboratory/MultimodalBenchmark) | 💾 Data | Official code for the 3D Multimodal Synchrotron Dataset (*Sci. Data* [2025](https://www.nature.com/articles/s41597-025-04605-9)). |
 
 ### 📢 Opportunities
