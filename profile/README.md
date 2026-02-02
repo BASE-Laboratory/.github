@@ -27,7 +27,8 @@ Our code is open-source and developed for Tier-1 National Supercomputing facilit
 | :--- | :--- | :--- |
 | [**OpenImpala**](https://github.com/BASE-Laboratory/OpenImpala) | ⚛️ Physics | Massively parallel solver for transport physics (AMReX/C++). (*SoftwareX* [2021](https://www.sciencedirect.com/science/article/pii/S2352711021000662)) |
 | [**PorousDiff**](https://github.com/BASE-Laboratory/PorousDiff) | 🧠 GenAI | Conditional 3D diffusion for mechanical surrogate modelling. |
-| [**LiionDB**](https://zenodo.org/records/5574514) | 🔋 Data | The community standard database for Li-ion battery parameters (Zenodo). |
+| [**OperandoCellLibrary**](https://github.com/BASE-Laboratory/OperandoCellLibrary) | 🛠️ Hardware | Streamlit library of operando sample environments for battery research. (*arXiv* [2026](https://arxiv.org/abs/2601.00851)) |
+| [**LiionDB**](https://zenodo.org/records/5574514) | 🔋 Data | The community standard database for Li-ion battery parameters (*Progress in Energy* [2022](https://iopscience.iop.org/article/10.1088/2516-1083/ac692c)). |
 | [**OpenLSR-X**](https://github.com/BASE-Laboratory/OpenLSR-X) | 👁️ Vision | SRGAN implementation for Synchrotron XCT super-resolution. |
 | [**BatteryExplorer**](https://github.com/BASE-Laboratory/BatteryExplorer) | 📊 Viz | 4D interactive dashboard for operando failure analysis. |
 | [**MultimodalBenchmark**](https://github.com/BASE-Laboratory/MultimodalBenchmark) | 💾 Data | Official code for the 3D Multimodal Synchrotron Dataset (*Sci. Data* [2025](https://www.nature.com/articles/s41597-025-04605-9)). |
