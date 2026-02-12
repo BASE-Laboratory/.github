@@ -1,7 +1,7 @@
 # BASE Laboratory
 ### Beamlines for Autonomous Science and Engineering
 
-We are a joint research group between the **University of Greenwich** and the **Rutherford Appleton Laboratory (RAL)**. We build the software infrastructure to hardwire UK Exascale computing directly to Synchrotron beamlines.
+We are a joint research group between the **University of Greenwich** and the **Rutherford Appleton Laboratory (RAL)**. We build the software infrastructure to hardwire UK Exascale computing directly to beamlines.
 
 <p align="center">
   <img src="https://github.com/BASE-Laboratory/.github/blob/main/assets/Heuristic_Control.png?raw=true" alt="ESME Framework Architecture" width="65%">
